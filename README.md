@@ -1,7 +1,8 @@
 # One-Star Review of Something Essential
 
-A one-star review of sleep: eight hours in, still tired, sore, and somehow
-behind schedule. Rest is advertised; this is just a long blink.
+A one-star review of sleep: an inefficient, mandatory system update that
+demands eight hours of total inactivity and leaves me with no progress
+report once it finally finishes.
 
 `main.ts` (Node, no dependencies) writes the review verbatim to `entry.txt`
 inside the output directory from `MAKEFUN_OUTPUT_DIR` (default `/output`),
